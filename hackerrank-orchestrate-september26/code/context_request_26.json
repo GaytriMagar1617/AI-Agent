@@ -1,0 +1,2106 @@
+{
+    "request": {
+        "request_id": "request_26",
+        "user_id": "user_26",
+        "request_date": "2025-08-03",
+        "request_type": "family_transfer",
+        "requested_amount": 15656000.0,
+        "desired_completion_date": "2025-10-07",
+        "allows_partial_payment": false,
+        "request_text": "I've been asked to transfer IDR 15,656,000 to my family. I need to complete it by 7 October 2025. Should I send the full amount, send part of it, or wait?"
+    },
+    "user_profile": {
+        "user_id": "user_26",
+        "home_currency": "IDR",
+        "current_available_balance": 100845250.0,
+        "minimum_balance_to_keep": 24768300,
+        "financial_priorities": "retirement_investment|emergency_savings",
+        "expense_categories_to_protect": "rent|utilities|groceries",
+        "expense_categories_user_is_willing_to_reduce": "streaming",
+        "expense_categories_user_is_willing_to_stop": "streaming",
+        "payment_methods_user_will_consider": "full_payment|installments",
+        "max_installment_months": 5.0
+    },
+    "financial_events": [
+        {
+            "event_id": "event_2324",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Household groceries",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1272286.93,
+            "currency": "IDR",
+            "event_date": "2025-02-08 00:00:00",
+            "settlement_date": "2025-02-08",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2342",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Rail pass",
+            "category": "transport",
+            "direction": "debit",
+            "amount": 559929.41,
+            "currency": "IDR",
+            "event_date": "2025-02-09 00:00:00",
+            "settlement_date": "2025-02-09",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2351",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Bakery and snacks",
+            "category": "dining",
+            "direction": "debit",
+            "amount": 950137.92,
+            "currency": "IDR",
+            "event_date": "2025-02-10 00:00:00",
+            "settlement_date": "2025-02-10",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2325",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Bulk pantry shop",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1187604.88,
+            "currency": "IDR",
+            "event_date": "2025-02-18 00:00:00",
+            "settlement_date": "2025-02-18",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2326",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Local market purchase",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1104670.55,
+            "currency": "IDR",
+            "event_date": "2025-02-28 00:00:00",
+            "settlement_date": "2025-02-28",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2343",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Parking and tolls",
+            "category": "transport",
+            "direction": "debit",
+            "amount": 880731.59,
+            "currency": "IDR",
+            "event_date": "2025-03-02 00:00:00",
+            "settlement_date": "2025-03-02",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2352",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Coffee shop",
+            "category": "dining",
+            "direction": "debit",
+            "amount": 708193.07,
+            "currency": "IDR",
+            "event_date": "2025-03-03 00:00:00",
+            "settlement_date": "2025-03-03",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2291",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Residential rent payment",
+            "category": "rent",
+            "direction": "debit",
+            "amount": 10374000.0,
+            "currency": "IDR",
+            "event_date": "2025-03-03 00:00:00",
+            "settlement_date": "2025-03-03",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2292",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Water and power payment",
+            "category": "utilities",
+            "direction": "debit",
+            "amount": 2031034.93,
+            "currency": "IDR",
+            "event_date": "2025-03-07 00:00:00",
+            "settlement_date": "2025-03-07",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2289",
+            "user_id": "user_26",
+            "event_type": "income",
+            "description": "Website project payment",
+            "category": "salary",
+            "direction": "credit",
+            "amount": 15665368.16,
+            "currency": "IDR",
+            "event_date": "2025-03-08 00:00:00",
+            "settlement_date": "2025-03-08",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2327",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Local market purchase",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1284616.44,
+            "currency": "IDR",
+            "event_date": "2025-03-10 00:00:00",
+            "settlement_date": "2025-03-10",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2294",
+            "user_id": "user_26",
+            "event_type": "subscription",
+            "description": "Video streaming plan",
+            "category": "streaming",
+            "direction": "debit",
+            "amount": 560500.0,
+            "currency": "IDR",
+            "event_date": "2025-03-10 00:00:00",
+            "settlement_date": "2025-03-10",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "reducible_or_stoppable",
+            "minimum_allowed_amount": 280250.0
+        },
+        {
+            "event_id": "event_2295",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Clothing and household items",
+            "category": "shopping",
+            "direction": "debit",
+            "amount": 1464056.31,
+            "currency": "IDR",
+            "event_date": "2025-03-13 00:00:00",
+            "settlement_date": "2025-03-13",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2293",
+            "user_id": "user_26",
+            "event_type": "subscription",
+            "description": "Cloud storage plan",
+            "category": "cloud_storage",
+            "direction": "debit",
+            "amount": 214700.0,
+            "currency": "IDR",
+            "event_date": "2025-03-13 00:00:00",
+            "settlement_date": "2025-03-13",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2328",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Neighbourhood grocer",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 913664.59,
+            "currency": "IDR",
+            "event_date": "2025-03-20 00:00:00",
+            "settlement_date": "2025-03-20",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2290",
+            "user_id": "user_26",
+            "event_type": "income",
+            "description": "Content contract payment",
+            "category": "salary",
+            "direction": "credit",
+            "amount": 15189344.33,
+            "currency": "IDR",
+            "event_date": "2025-03-22 00:00:00",
+            "settlement_date": "2025-03-22",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2344",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Vehicle charging",
+            "category": "transport",
+            "direction": "debit",
+            "amount": 563023.31,
+            "currency": "IDR",
+            "event_date": "2025-03-23 00:00:00",
+            "settlement_date": "2025-03-23",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2353",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Quick-service meal",
+            "category": "dining",
+            "direction": "debit",
+            "amount": 747988.04,
+            "currency": "IDR",
+            "event_date": "2025-03-24 00:00:00",
+            "settlement_date": "2025-03-24",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2329",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Local market purchase",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1278730.52,
+            "currency": "IDR",
+            "event_date": "2025-03-30 00:00:00",
+            "settlement_date": "2025-03-30",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2298",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Residential rent payment",
+            "category": "rent",
+            "direction": "debit",
+            "amount": 10374000.0,
+            "currency": "IDR",
+            "event_date": "2025-04-03 00:00:00",
+            "settlement_date": "2025-04-03",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2299",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Water and power payment",
+            "category": "utilities",
+            "direction": "debit",
+            "amount": 1920158.26,
+            "currency": "IDR",
+            "event_date": "2025-04-07 00:00:00",
+            "settlement_date": "2025-04-07",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2296",
+            "user_id": "user_26",
+            "event_type": "income",
+            "description": "Design contract payment",
+            "category": "salary",
+            "direction": "credit",
+            "amount": 12009768.3,
+            "currency": "IDR",
+            "event_date": "2025-04-08 00:00:00",
+            "settlement_date": "2025-04-08",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2330",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Neighbourhood grocer",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 844694.38,
+            "currency": "IDR",
+            "event_date": "2025-04-09 00:00:00",
+            "settlement_date": "2025-04-09",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2301",
+            "user_id": "user_26",
+            "event_type": "subscription",
+            "description": "Video streaming plan",
+            "category": "streaming",
+            "direction": "debit",
+            "amount": 560500.0,
+            "currency": "IDR",
+            "event_date": "2025-04-10 00:00:00",
+            "settlement_date": "2025-04-10",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "reducible_or_stoppable",
+            "minimum_allowed_amount": 280250.0
+        },
+        {
+            "event_id": "event_2302",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Clothing and household items",
+            "category": "shopping",
+            "direction": "debit",
+            "amount": 1465974.22,
+            "currency": "IDR",
+            "event_date": "2025-04-13 00:00:00",
+            "settlement_date": "2025-04-13",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2300",
+            "user_id": "user_26",
+            "event_type": "subscription",
+            "description": "Cloud storage plan",
+            "category": "cloud_storage",
+            "direction": "debit",
+            "amount": 214700.0,
+            "currency": "IDR",
+            "event_date": "2025-04-13 00:00:00",
+            "settlement_date": "2025-04-13",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2345",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Metro and bus fares",
+            "category": "transport",
+            "direction": "debit",
+            "amount": 733311.86,
+            "currency": "IDR",
+            "event_date": "2025-04-13 00:00:00",
+            "settlement_date": "2025-04-13",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2354",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Coffee shop",
+            "category": "dining",
+            "direction": "debit",
+            "amount": 888704.7,
+            "currency": "IDR",
+            "event_date": "2025-04-14 00:00:00",
+            "settlement_date": "2025-04-14",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2331",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Bulk pantry shop",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1075544.02,
+            "currency": "IDR",
+            "event_date": "2025-04-19 00:00:00",
+            "settlement_date": "2025-04-19",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2297",
+            "user_id": "user_26",
+            "event_type": "income",
+            "description": "Content contract payment",
+            "category": "salary",
+            "direction": "credit",
+            "amount": 12465196.73,
+            "currency": "IDR",
+            "event_date": "2025-04-22 00:00:00",
+            "settlement_date": "2025-04-22",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2332",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Bulk pantry shop",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1317793.77,
+            "currency": "IDR",
+            "event_date": "2025-04-29 00:00:00",
+            "settlement_date": "2025-04-29",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2305",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Residential rent payment",
+            "category": "rent",
+            "direction": "debit",
+            "amount": 10374000.0,
+            "currency": "IDR",
+            "event_date": "2025-05-03 00:00:00",
+            "settlement_date": "2025-05-03",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2346",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Fuel refill",
+            "category": "transport",
+            "direction": "debit",
+            "amount": 713065.46,
+            "currency": "IDR",
+            "event_date": "2025-05-04 00:00:00",
+            "settlement_date": "2025-05-04",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2355",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Takeaway order",
+            "category": "dining",
+            "direction": "debit",
+            "amount": 759912.71,
+            "currency": "IDR",
+            "event_date": "2025-05-05 00:00:00",
+            "settlement_date": "2025-05-05",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2306",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Water and power payment",
+            "category": "utilities",
+            "direction": "debit",
+            "amount": 2021261.52,
+            "currency": "IDR",
+            "event_date": "2025-05-07 00:00:00",
+            "settlement_date": "2025-05-07",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2303",
+            "user_id": "user_26",
+            "event_type": "income",
+            "description": "Website project payment",
+            "category": "salary",
+            "direction": "credit",
+            "amount": 17700485.3,
+            "currency": "IDR",
+            "event_date": "2025-05-08 00:00:00",
+            "settlement_date": "2025-05-08",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2333",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Household groceries",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1452744.4,
+            "currency": "IDR",
+            "event_date": "2025-05-09 00:00:00",
+            "settlement_date": "2025-05-09",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2308",
+            "user_id": "user_26",
+            "event_type": "subscription",
+            "description": "Video streaming plan",
+            "category": "streaming",
+            "direction": "debit",
+            "amount": 560500.0,
+            "currency": "IDR",
+            "event_date": "2025-05-10 00:00:00",
+            "settlement_date": "2025-05-10",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "reducible_or_stoppable",
+            "minimum_allowed_amount": 280250.0
+        },
+        {
+            "event_id": "event_2307",
+            "user_id": "user_26",
+            "event_type": "subscription",
+            "description": "Cloud storage plan",
+            "category": "cloud_storage",
+            "direction": "debit",
+            "amount": 214700.0,
+            "currency": "IDR",
+            "event_date": "2025-05-13 00:00:00",
+            "settlement_date": "2025-05-13",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2309",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Clothing and household items",
+            "category": "shopping",
+            "direction": "debit",
+            "amount": 1335058.52,
+            "currency": "IDR",
+            "event_date": "2025-05-13 00:00:00",
+            "settlement_date": "2025-05-13",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2334",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Supermarket basket",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1463040.01,
+            "currency": "IDR",
+            "event_date": "2025-05-19 00:00:00",
+            "settlement_date": "2025-05-19",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2304",
+            "user_id": "user_26",
+            "event_type": "income",
+            "description": "Independent work payment",
+            "category": "salary",
+            "direction": "credit",
+            "amount": 16375355.63,
+            "currency": "IDR",
+            "event_date": "2025-05-22 00:00:00",
+            "settlement_date": "2025-05-22",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2347",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Vehicle charging",
+            "category": "transport",
+            "direction": "debit",
+            "amount": 715741.39,
+            "currency": "IDR",
+            "event_date": "2025-05-25 00:00:00",
+            "settlement_date": "2025-05-25",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2356",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Family dinner",
+            "category": "dining",
+            "direction": "debit",
+            "amount": 766643.61,
+            "currency": "IDR",
+            "event_date": "2025-05-26 00:00:00",
+            "settlement_date": "2025-05-26",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2335",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Supermarket basket",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1171160.69,
+            "currency": "IDR",
+            "event_date": "2025-05-29 00:00:00",
+            "settlement_date": "2025-05-29",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2312",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Residential rent payment",
+            "category": "rent",
+            "direction": "debit",
+            "amount": 10374000.0,
+            "currency": "IDR",
+            "event_date": "2025-06-03 00:00:00",
+            "settlement_date": "2025-06-03",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2313",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Water and power payment",
+            "category": "utilities",
+            "direction": "debit",
+            "amount": 1786852.6,
+            "currency": "IDR",
+            "event_date": "2025-06-07 00:00:00",
+            "settlement_date": "2025-06-07",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2336",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Bulk pantry shop",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1197331.19,
+            "currency": "IDR",
+            "event_date": "2025-06-08 00:00:00",
+            "settlement_date": "2025-06-08",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2310",
+            "user_id": "user_26",
+            "event_type": "income",
+            "description": "Freelance milestone payment",
+            "category": "salary",
+            "direction": "credit",
+            "amount": 15282358.98,
+            "currency": "IDR",
+            "event_date": "2025-06-08 00:00:00",
+            "settlement_date": "2025-06-08",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2315",
+            "user_id": "user_26",
+            "event_type": "subscription",
+            "description": "Video streaming plan",
+            "category": "streaming",
+            "direction": "debit",
+            "amount": 560500.0,
+            "currency": "IDR",
+            "event_date": "2025-06-10 00:00:00",
+            "settlement_date": "2025-06-10",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "reducible_or_stoppable",
+            "minimum_allowed_amount": 280250.0
+        },
+        {
+            "event_id": "event_2316",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Clothing and household items",
+            "category": "shopping",
+            "direction": "debit",
+            "amount": 1346357.78,
+            "currency": "IDR",
+            "event_date": "2025-06-13 00:00:00",
+            "settlement_date": "2025-06-13",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2314",
+            "user_id": "user_26",
+            "event_type": "subscription",
+            "description": "Cloud storage plan",
+            "category": "cloud_storage",
+            "direction": "debit",
+            "amount": 214700.0,
+            "currency": "IDR",
+            "event_date": "2025-06-13 00:00:00",
+            "settlement_date": "2025-06-13",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2348",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Local taxi",
+            "category": "transport",
+            "direction": "debit",
+            "amount": 899350.99,
+            "currency": "IDR",
+            "event_date": "2025-06-15 00:00:00",
+            "settlement_date": "2025-06-15",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2357",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Neighbourhood restaurant",
+            "category": "dining",
+            "direction": "debit",
+            "amount": 756269.96,
+            "currency": "IDR",
+            "event_date": "2025-06-16 00:00:00",
+            "settlement_date": "2025-06-16",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2337",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Local market purchase",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1322230.21,
+            "currency": "IDR",
+            "event_date": "2025-06-18 00:00:00",
+            "settlement_date": "2025-06-18",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2311",
+            "user_id": "user_26",
+            "event_type": "income",
+            "description": "Application project payment",
+            "category": "salary",
+            "direction": "credit",
+            "amount": 16728130.1,
+            "currency": "IDR",
+            "event_date": "2025-06-22 00:00:00",
+            "settlement_date": "2025-06-22",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2360",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Card charge later reversed",
+            "category": "shopping",
+            "direction": "debit",
+            "amount": 769500.0,
+            "currency": "IDR",
+            "event_date": "2025-06-26 00:00:00",
+            "settlement_date": "2025-06-27",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2338",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Weekly produce market",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 867897.58,
+            "currency": "IDR",
+            "event_date": "2025-06-28 00:00:00",
+            "settlement_date": "2025-06-28",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2361",
+            "user_id": "user_26",
+            "event_type": "refund",
+            "description": "Settled card charge reversal",
+            "category": "shopping",
+            "direction": "credit",
+            "amount": 769500.0,
+            "currency": "IDR",
+            "event_date": "2025-06-29 00:00:00",
+            "settlement_date": "2025-06-30",
+            "status": "settled",
+            "linked_event_id": "event_2360",
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2319",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Residential rent payment",
+            "category": "rent",
+            "direction": "debit",
+            "amount": 10374000.0,
+            "currency": "IDR",
+            "event_date": "2025-07-03 00:00:00",
+            "settlement_date": "2025-07-03",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2349",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Metro and bus fares",
+            "category": "transport",
+            "direction": "debit",
+            "amount": 924411.52,
+            "currency": "IDR",
+            "event_date": "2025-07-06 00:00:00",
+            "settlement_date": "2025-07-06",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2358",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Quick-service meal",
+            "category": "dining",
+            "direction": "debit",
+            "amount": 700278.86,
+            "currency": "IDR",
+            "event_date": "2025-07-07 00:00:00",
+            "settlement_date": "2025-07-07",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2320",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Water and power payment",
+            "category": "utilities",
+            "direction": "debit",
+            "amount": 2081148.84,
+            "currency": "IDR",
+            "event_date": "2025-07-07 00:00:00",
+            "settlement_date": "2025-07-07",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2339",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Grocery delivery",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 858282.28,
+            "currency": "IDR",
+            "event_date": "2025-07-08 00:00:00",
+            "settlement_date": "2025-07-08",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2317",
+            "user_id": "user_26",
+            "event_type": "income",
+            "description": "Website project payment",
+            "category": "salary",
+            "direction": "credit",
+            "amount": 9250911.66,
+            "currency": "IDR",
+            "event_date": "2025-07-08 00:00:00",
+            "settlement_date": "2025-07-08",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2322",
+            "user_id": "user_26",
+            "event_type": "subscription",
+            "description": "Video streaming plan",
+            "category": "streaming",
+            "direction": "debit",
+            "amount": 560500.0,
+            "currency": "IDR",
+            "event_date": "2025-07-10 00:00:00",
+            "settlement_date": "2025-07-10",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "reducible_or_stoppable",
+            "minimum_allowed_amount": 280250.0
+        },
+        {
+            "event_id": "event_2323",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Clothing and household items",
+            "category": "shopping",
+            "direction": "debit",
+            "amount": 1241687.85,
+            "currency": "IDR",
+            "event_date": "2025-07-13 00:00:00",
+            "settlement_date": "2025-07-13",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2321",
+            "user_id": "user_26",
+            "event_type": "subscription",
+            "description": "Cloud storage plan",
+            "category": "cloud_storage",
+            "direction": "debit",
+            "amount": 214700.0,
+            "currency": "IDR",
+            "event_date": "2025-07-13 00:00:00",
+            "settlement_date": "2025-07-13",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2362",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Card authorization",
+            "category": "shopping",
+            "direction": "debit",
+            "amount": 1077300.0,
+            "currency": "IDR",
+            "event_date": "2025-07-16 00:00:00",
+            "settlement_date": "2025-07-18",
+            "status": "cancelled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2340",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Fresh food shop",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 987717.99,
+            "currency": "IDR",
+            "event_date": "2025-07-18 00:00:00",
+            "settlement_date": "2025-07-18",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2363",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Settled card purchase",
+            "category": "shopping",
+            "direction": "debit",
+            "amount": 1077300.0,
+            "currency": "IDR",
+            "event_date": "2025-07-18 00:00:00",
+            "settlement_date": "2025-07-19",
+            "status": "settled",
+            "linked_event_id": "event_2362",
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2318",
+            "user_id": "user_26",
+            "event_type": "income",
+            "description": "Client retainer payment",
+            "category": "salary",
+            "direction": "credit",
+            "amount": 8784637.15,
+            "currency": "IDR",
+            "event_date": "2025-07-22 00:00:00",
+            "settlement_date": "2025-07-22",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2350",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Parking and tolls",
+            "category": "transport",
+            "direction": "debit",
+            "amount": 592159.83,
+            "currency": "IDR",
+            "event_date": "2025-07-27 00:00:00",
+            "settlement_date": "2025-07-27",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2341",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Local market purchase",
+            "category": "groceries",
+            "direction": "debit",
+            "amount": 1164380.05,
+            "currency": "IDR",
+            "event_date": "2025-07-28 00:00:00",
+            "settlement_date": "2025-07-28",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2359",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Takeaway order",
+            "category": "dining",
+            "direction": "debit",
+            "amount": 932713.32,
+            "currency": "IDR",
+            "event_date": "2025-07-28 00:00:00",
+            "settlement_date": "2025-07-28",
+            "status": "settled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        },
+        {
+            "event_id": "event_2364",
+            "user_id": "user_26",
+            "event_type": "expense",
+            "description": "Cancelled booking authorization",
+            "category": "shopping",
+            "direction": "debit",
+            "amount": 866400.0,
+            "currency": "IDR",
+            "event_date": "2025-07-30 00:00:00",
+            "settlement_date": "2025-07-31",
+            "status": "cancelled",
+            "linked_event_id": NaN,
+            "flexibility": "fixed",
+            "minimum_allowed_amount": NaN
+        }
+    ],
+    "messages": [
+        {
+            "message_id": "message_18",
+            "user_id": "user_26",
+            "request_id": NaN,
+            "related_event_id": NaN,
+            "sent_at": "2025-07-27T09:30:00Z",
+            "source_type": "service_provider",
+            "message_text": "Halo, ini InvoiceFlow. Klien menyetujui pembayaran faktur sebesar IDR 30780000. Penyelesaian diperkirakan pada 2025-08-15; faktur lain yang diajukan masih menunggu persetujuan. Hanya faktur yang sudah dikonfirmasi yang dapat dimasukkan dalam pembayaran berikutnya. Ref kasus SER-0018."
+        }
+    ],
+    "images": [],
+    "payment_options": [
+        {
+            "payment_option_id": "payment_option_72",
+            "request_id": "request_26",
+            "payment_method": "full_payment",
+            "payment_amount": 15656000.0,
+            "number_of_payments": 1,
+            "first_payment_date": "2025-08-03",
+            "payment_frequency_days": NaN,
+            "financing_fee": 0.0,
+            "total_payable_amount": 15656000.0
+        },
+        {
+            "payment_option_id": "payment_option_73",
+            "request_id": "request_26",
+            "payment_method": "installments",
+            "payment_amount": 1148106.67,
+            "number_of_payments": 15,
+            "first_payment_date": "2025-08-06",
+            "payment_frequency_days": 30.0,
+            "financing_fee": 1565600.05,
+            "total_payable_amount": 17221600.05
+        },
+        {
+            "payment_option_id": "payment_option_74",
+            "request_id": "request_26",
+            "payment_method": "installments",
+            "payment_amount": 2818080.0,
+            "number_of_payments": 6,
+            "first_payment_date": "2025-08-10",
+            "payment_frequency_days": 31.0,
+            "financing_fee": 1252480.0,
+            "total_payable_amount": 16908480.0
+        },
+        {
+            "payment_option_id": "payment_option_75",
+            "request_id": "request_26",
+            "payment_method": "installments",
+            "payment_amount": 795846.67,
+            "number_of_payments": 24,
+            "first_payment_date": "2025-08-17",
+            "payment_frequency_days": 28.0,
+            "financing_fee": 3444320.08,
+            "total_payable_amount": 19100320.08
+        }
+    ],
+    "exchange_rates": [
+        {
+            "rate_date": "2023-10-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2023-10-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2023-10-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2023-11-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2023-11-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2023-11-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2023-12-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2023-12-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2023-12-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2024-01-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2024-01-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2024-01-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2024-01-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2024-02-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2024-02-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2024-02-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2024-02-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2024-03-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2024-03-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2024-03-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2024-03-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2024-04-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2024-04-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2024-04-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2024-04-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2024-04-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2024-05-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2024-05-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2024-05-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2024-05-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2024-05-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2024-06-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2024-06-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2024-06-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2024-07-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2024-07-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2024-07-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2024-08-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2024-08-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2024-08-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2024-09-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2024-09-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2024-09-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2024-09-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2024-10-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2024-10-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2024-10-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2024-10-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2024-11-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2024-11-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2024-11-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2024-11-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2024-12-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2024-12-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2024-12-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2024-12-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2025-01-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2025-01-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2025-01-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2025-01-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2025-02-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2025-02-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2025-02-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2025-02-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2025-03-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2025-03-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2025-04-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2025-04-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2025-05-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2025-05-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2025-06-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2025-06-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2025-06-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2025-06-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2025-07-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2025-07-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2025-07-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2025-07-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2025-08-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2025-08-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2025-08-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2025-08-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2025-08-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2025-09-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2025-09-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2025-09-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2025-09-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2025-09-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2025-10-01",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2025-10-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2025-10-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2025-10-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2025-10-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2025-10-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2025-11-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2025-11-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2025-11-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2025-11-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2025-11-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2025-12-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2025-12-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2025-12-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2025-12-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2025-12-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2026-01-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2026-01-15",
+            "from_currency": "EUR",
+            "to_currency": "ZAR",
+            "rate": 20.0
+        },
+        {
+            "rate_date": "2026-01-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2026-01-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2026-01-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2026-02-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2026-02-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2026-02-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2026-02-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2026-03-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2026-03-15",
+            "from_currency": "USD",
+            "to_currency": "EUR",
+            "rate": 0.92
+        },
+        {
+            "rate_date": "2026-03-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2026-03-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2026-04-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2026-04-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2026-04-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2026-05-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2026-05-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2026-05-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2026-06-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2026-06-15",
+            "from_currency": "USD",
+            "to_currency": "IDR",
+            "rate": 15833.33
+        },
+        {
+            "rate_date": "2026-06-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2026-07-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2026-07-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2026-08-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2026-08-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2026-09-15",
+            "from_currency": "EUR",
+            "to_currency": "USD",
+            "rate": 1.09
+        },
+        {
+            "rate_date": "2026-09-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2026-10-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        },
+        {
+            "rate_date": "2026-11-15",
+            "from_currency": "USD",
+            "to_currency": "INR",
+            "rate": 83.33
+        }
+    ]
+}
